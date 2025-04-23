@@ -1,0 +1,31 @@
+
+body {
+    background-color: Beige;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid brown;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(46, 44, 44);
+}
+
+li {
+    font-size: 30px;
+    color: rgb(46, 44, 44);
+    text-align: center;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    color: deeppink;
+}
